@@ -7,7 +7,7 @@ function Split(props) {
   return (
     <div
       className={combinedClassName}
-      sytle={newStyles}
+      style={newStyles}
     >
       {props.children}
     </div>
